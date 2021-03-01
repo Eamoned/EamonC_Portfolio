@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Eamon Corr</title>
+    <link>https://eamoned.github.io/EamonC_Portfolio/post/</link>
+    <description>Recent content in Projects on Eamon Corr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Nov 2020 12:00:00 -0500</lastBuildDate><atom:link href="https://eamoned.github.io/EamonC_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Quality Performance Interactive Dashboard Web Application</title>
+      <link>https://eamoned.github.io/EamonC_Portfolio/post/project-1/</link>
+      <pubDate>Wed, 11 Nov 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://eamoned.github.io/EamonC_Portfolio/post/project-1/</guid>
+      <description>Manufacturing Quality Dashboard visualises manufacturing, supplier performance and customer satisfaction for a manufacturing facility. The Web Application is built using Python, Plotly and Dash libaries. The App pulls data from three different sources and visualizes the data in various interactive charts and tables.  
+Dashboard Web Application
+Link to GitHub Depository</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Titanic Survival Predictor ShinyApp</title>
+      <link>https://eamoned.github.io/EamonC_Portfolio/post/project-2/</link>
+      <pubDate>Sat, 10 Oct 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://eamoned.github.io/EamonC_Portfolio/post/project-2/</guid>
+      <description>Titanic Survival Predictor ShinyApp. Created using interactive web apps straight from R. Would you Survive the sinking of the Titanic? Simply enter a few details and the Shiny App will predict your probability of survival with a 94% Accuracy. Experiment with different scenarios and see if your chances improve or deteriorate.  
+Titanic Survival Predictor ShinyApp
+The full source code for this Shiny App can be found on my GitHub page</description>
+    </item>
+    
+    <item>
+      <title>Project 3: South Australia Dive Site Locator</title>
+      <link>https://eamoned.github.io/EamonC_Portfolio/post/project-3/</link>
+      <pubDate>Thu, 21 May 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://eamoned.github.io/EamonC_Portfolio/post/project-3/</guid>
+      <description>Locate your local South Australian dive sites. Created using R Markdown and Leaflet. Click on a site for the dive site name and maximum depth.  
+The full source code for this App can be found on my GitHub page</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Bike Rental Visualisation</title>
+      <link>https://eamoned.github.io/EamonC_Portfolio/post/vis-1/</link>
+      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://eamoned.github.io/EamonC_Portfolio/post/vis-1/</guid>
+      <description>Count of bikes rented vs hour for working &amp;amp; non-working days. The Visualiation is built using R, R Markdown &amp;amp; Plotly. Check out how time of the day, temperature, and working/non-working days, impact bike usage.  
+Link to GitHub Depository</description>
+    </item>
+    
+    <item>
+      <title>Project 5: Predict Exercise Performance</title>
+      <link>https://eamoned.github.io/EamonC_Portfolio/post/project-5/</link>
+      <pubDate>Tue, 07 May 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://eamoned.github.io/EamonC_Portfolio/post/project-5/</guid>
+      <description>There are many devices that record key fitness performance metrics making it possible to collect a large amount of data about personal activity. Usually the goal is to measure regularly so to improve fitness, health and find new patterns in behaviour. One thing that people regularly do is quantify how much of a particular activity they do, but they rarely quantify how well they do it. This project will use data from accelerometers on the belt, forearm, arm, and dumbbell of 6 participants.</description>
+    </item>
+    
+  </channel>
+</rss>
