@@ -1,9 +1,9 @@
 ---
 date: 2020-10-10T11:00:59-04:00
-description: "Shiny App predicting probability of survival on the Titanic"
+description: "This Shiny App will predict your probability of surviving the Titanic"
 featured_image: "/images/titanic.jpg"
 tags: []
-title: "Titanic Survival Predictor ShinyApp"
+title: "ShinyApp Titanic Survival Predictor"
 ---
 * Titanic Survival Predictor ShinyApp.
 * Created using interactive web apps straight from R.

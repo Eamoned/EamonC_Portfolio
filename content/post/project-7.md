@@ -3,7 +3,7 @@ date: 2021-02-09T10:58:08-04:00
 description: "Popular visualisation libraries"
 featured_image: "/images/chart1.JPG"
 tags: []
-title: "Python Libraries for Visualsation"
+title: "Python Libraries for Visualisation"
 ---
 
 * There are many python visualisation libraries available to plot scatter plots, bar charts, heatmaps and histograms. Some can be a little more sophisticated and interactive than others but it really comes down to what's appropriate for the project and your visualisation requirements, i.e. a static chart may be suffice or maybe something more interactive is required.
