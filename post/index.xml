@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Nov 2020 12:00:00 -0500</lastBuildDate><atom:link href="https://eamoned.github.io/EamonC_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Human Resources Attrition Prediction App</title>
+      <link>https://eamoned.github.io/EamonC_Portfolio/post/project-9/</link>
+      <pubDate>Wed, 30 Jun 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://eamoned.github.io/EamonC_Portfolio/post/project-9/</guid>
+      <description>This machine learning application predicts which employees are more likely to stay or quit the business. Using models to predict if a staff member is likely to quit can support HR&amp;rsquo;s ability to be proactive and to take actions to prevent or at least minimise the probability of the employee leaving. Simply input some details and the app will make a prediction and it&amp;rsquo;s probability. This application is built with Python &amp;amp; deployed using streamlit and Heroku.</description>
+    </item>
+    
+    <item>
       <title>Interactive Machine Learning Project with Streamlit Deployment</title>
       <link>https://eamoned.github.io/EamonC_Portfolio/post/project-8/</link>
       <pubDate>Fri, 30 Apr 2021 11:00:59 -0400</pubDate>
