@@ -1,5 +1,5 @@
 ---
-date: 2021-06-30T11:00:59-04:00
+date: 2021-07-01T11:00:59-04:00
 description: "This Application predicts which employees are more likely to stay or quit!"
 featured_image: "/images/lego_people.jpg"
 tags: []
