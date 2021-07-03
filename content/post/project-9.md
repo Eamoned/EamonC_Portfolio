@@ -1,6 +1,6 @@
 ---
 date: 2021-04-30T11:00:59-04:00
-description: "Predict compressive concrete strength using different models and determine their accuracy"
+description: "Human Resources Attrition Prediction App"
 featured_image: "/images/concretestrength.jpg"
 tags: []
 title: "Interactive Machine Learning Project with Streamlit Deployment"
