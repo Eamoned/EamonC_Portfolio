@@ -1,3 +1,3 @@
-# EamonC_Portfolio
+# Eamon's Data Science Portfolio
 
-https://eamoned.github.io/visualisation-libraries/
+https://eamoned.github.io/EamonC_Portfolio/
