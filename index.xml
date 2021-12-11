@@ -6,7 +6,16 @@
     <description>Recent content in Data Science &amp; Visualisation Portfolio on Eamon Corr</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jul 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://eamoned.github.io/EamonC_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Nov 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://eamoned.github.io/EamonC_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploratory Data Analysis of Sales Data with Jupyter Notebook and Power BI</title>
+      <link>https://eamoned.github.io/EamonC_Portfolio/post/project-10/</link>
+      <pubDate>Tue, 09 Nov 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://eamoned.github.io/EamonC_Portfolio/post/project-10/</guid>
+      <description>For many businesses to remain competitive it&amp;rsquo;s critical that they leverage data analysis and AL/ML to improve their forecasting and future sales models. This involves analysis of historical sales data, exploring customer demand, analysing the competition, seasonality patterns, the effect of holidays and promotions, and much more. The objective of this project is twofold. To carry out analysis of the datasets in order to determine the feature characteristics, data reliability, critical details and any weaknesses and/or missing data in the datasets.</description>
+    </item>
+    
     <item>
       <title>Human Resources Attrition Prediction App</title>
       <link>https://eamoned.github.io/EamonC_Portfolio/post/project-9/</link>
@@ -78,7 +87,7 @@ Link to GitHub Depository</description>
     </item>
     
     <item>
-      <title>Predict Exercise Performance</title>
+      <title>Predict Exercise Performance with R</title>
       <link>https://eamoned.github.io/EamonC_Portfolio/post/project-5/</link>
       <pubDate>Tue, 07 May 2019 10:58:08 -0400</pubDate>
       
