@@ -3,7 +3,7 @@ date: 2019-05-07T10:58:08-04:00
 description: "Predict the manner or how well participants perform barbell lifts"
 featured_image: "/images/trees.jpg"
 tags: []
-title: "Predict Exercise Performance"
+title: "Predict Exercise Performance with R"
 ---
 
 * There are many devices that record key fitness performance metrics making it possible to collect a large amount of data about personal activity. Usually the goal is to measure regularly so to improve fitness, health and find new patterns in behaviour.
