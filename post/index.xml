@@ -13,7 +13,7 @@
       <pubDate>Tue, 09 Nov 2021 10:58:08 -0400</pubDate>
       
       <guid>https://eamoned.github.io/EamonC_Portfolio/post/project-10/</guid>
-      <description>For many businesses to remain competitive it&amp;rsquo;s critical that they leverage data analysis and AL/ML to improve their forecasting and future sales models. This involves analysis of historical sales data, exploring customer demand, analysing the competition, seasonality patterns, the effect of holidays and promotions, and much more. The objective of this project is twofold. To carry out analysis of the datasets in order to determine the feature characteristics, data reliability, critical details and any weaknesses and/or missing data in the datasets.</description>
+      <description>For a business to remain competitive it&amp;rsquo;s critical that it leverages data analysis and AL/ML to improve forecasting and future sales models. This involves analysis of historical sales data, exploring customer demand, analysing the competition, seasonality patterns, the effect of holidays and promotions, and much more. The objective of this project is twofold. To carry out analysis of the datasets in order to determine the feature characteristics, data reliability, critical details and any weaknesses and/or missing data in the datasets.</description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@
       <pubDate>Thu, 01 Jul 2021 11:00:59 -0400</pubDate>
       
       <guid>https://eamoned.github.io/EamonC_Portfolio/post/project-9/</guid>
-      <description>This machine learning application predicts which employees are more likely to stay or quit the business. Using models to predict if a staff member is likely to quit can support HR&amp;rsquo;s ability to be proactive and to take actions to prevent or at least minimise the probability of the employee leaving. Simply input some details and the app will make a prediction and it&amp;rsquo;s probability. This application is built with Python &amp;amp; deployed using streamlit and Heroku.</description>
+      <description>This machine learning application predicts which employees are more likely to stay or quit the business. Using models to predict if a staff member is likely to quit can support HR&amp;rsquo;s ability to be proactive and to take actions to prevent or at least minimise the probability of the employee leaving. Simply input some details and the app will make a prediction and it&amp;rsquo;s probability. This application is built with Python &amp;amp; deployed using streamlit and Render.</description>
     </item>
     
     <item>
@@ -50,9 +50,8 @@ Interactive Machine Learning Project with Streamlit Deployment</description>
       <pubDate>Wed, 11 Nov 2020 11:13:32 -0400</pubDate>
       
       <guid>https://eamoned.github.io/EamonC_Portfolio/post/project-1/</guid>
-      <description>Manufacturing Quality Dashboard visualises manufacturing, supplier performance and customer satisfaction for a manufacturing facility. The Web Application is built using Python, Plotly and Dash libaries. The App pulls data from three different sources and visualizes the data in various interactive charts and tables.  
-Dashboard Web Application
-Link to GitHub Depository</description>
+      <description>This Manufacturing Quality Dashboard visualises manufacturing, supplier performance and customer satisfaction for a manufacturing facility. The Web Application is built using Python, Plotly and Dash libaries. The App pulls data from three different sources and visualizes the data in various interactive charts and tables. Tableau is an excellent data visualisation tool, particularly for interactive dashboards. Check out the the equivalent tableau manufacturing dashboard below.  
+Plotly Manufacturing Dashboard Web Application</description>
     </item>
     
     <item>
