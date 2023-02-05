@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Nov 2020 12:00:00 -0500</lastBuildDate><atom:link href="https://eamoned.github.io/EamonC_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Case Study - Analyze smart device usage data to gain insights into how consumers use smart devices.</title>
+      <link>https://eamoned.github.io/EamonC_Portfolio/post/project-11/</link>
+      <pubDate>Thu, 05 Jan 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://eamoned.github.io/EamonC_Portfolio/post/project-11/</guid>
+      <description>This case study is part of the Google Data Analytics Professional Certificate. The case study centres on Bellabeat, a high-tech manufacturer of health-focused smart products for women. The business task is to analyze smart device usage data in order to gain insight into how consumers use non-Bellabeat smart devices. Then select one Bellabeat product to apply these insights to and using this information, establish high-level recommendations for how these trends can inform Bellabeat marketing strategy.</description>
+    </item>
+    
+    <item>
       <title>Exploratory Data Analysis of Sales Data with Jupyter Notebook and Power BI</title>
       <link>https://eamoned.github.io/EamonC_Portfolio/post/project-10/</link>
       <pubDate>Tue, 09 Nov 2021 10:58:08 -0400</pubDate>
