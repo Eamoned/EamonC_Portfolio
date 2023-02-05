@@ -1,7 +1,7 @@
 ---
 date: 2023-01-05T10:58:08-04:00
 description: "Google Data Analytics Case Study"
-featured_image: "/images/sales_graph.JPG"
+featured_image: "/images/bellabeat.JPG"
 tags: []
 title: "Case Study - Analyze smart device usage data to gain insights into how consumers use smart devices."
 ---
@@ -13,7 +13,7 @@ title: "Case Study - Analyze smart device usage data to gain insights into how c
 * Processing and analysis of data was completed using both R and Python
 
 
-[![](/images/bellabeat.JPG)](https://github.com/Eamoned/google-data-analytics-casestudy.git)
+[![](/images/bellabeat.JPG)](https://eamoned.github.io/Sales-Data-Analysis/)
 
 [The Scope of Work (Scope-Of-Work-CaseStudy.pdf)](https://github.com/Eamoned/google-data-analytics-casestudy.git)
 
