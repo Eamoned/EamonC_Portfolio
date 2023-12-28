@@ -12,8 +12,8 @@ title: "Interactive Machine Learning Project with Streamlit Deployment"
 * This application is deployed using streamlit, a versatile interactive open source framework ideal for model exploration and machine learning applications.    
  
 
-[![](/images/concretestrength.jpg)](https://share.streamlit.io/eamoned/streamlit-cement/main/cement_analysis.py)
+[![](/images/concretestrength.jpg)](https://cement-streamlitapp.onrender.com/)
 
-[Interactive Machine Learning Project with Streamlit Deployment](https://share.streamlit.io/eamoned/streamlit-cement/main/cement_analysis.py/)
+[Interactive Machine Learning Project with Streamlit Deployment](https://cement-streamlitapp.onrender.com/)
 
 [Link to GitHub Depository](https://github.com/Eamoned/streamlit-cement)
